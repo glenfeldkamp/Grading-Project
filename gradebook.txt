@@ -1,0 +1,21 @@
+8
+0.12 0.12 0.12 0.1 0.12 0.12 0.15 0.15
+George	Washington	87	76	56	54	89	87	90	98	
+John	Adams		98	89	87	67	65	45	98	90	
+Thomas	Jefferson	100	98	99	98	87	89	90	80	
+James	Madison		98	87	78	76	56	54	34	98	
+James 	Monroe		98	87	78	87	89	86	67	66	
+Andrew	Jackson		76	67	78	87	89	90	98	98	
+William	Harrison	65	67	64	56	54	54	54	54	
+John	Tyler		98	87	76	65	57	87	65	45	
+James	Polk		87	67	65	45	87	67	98	76	
+Zachary	Taylor		87	78	76	56	76	54	56	54	
+Millard	Fillmore	87	67	56	54	98	98	98	98	
+Franklin	Pierce	87	67	65	67	98	78	87	67	
+James	Buchanan	87	67	76	56	87	45	44	33	
+Abraham	Lincoln		98	89	98	89	87	78	98	88	
+Andrew	Johnson		98	78	76	78	88	77	98	90	
+Ulysses	Grant		87	67	87	65	45	65	43	78	
+Rutherford	Hayes	77	66	77	66	55	66	77	88	
+James	Garfield	87	67	98	99	100	98	76	99	
+Chester	Arthur		76	56	87	67	98	78	76	54	

@@ -1,0 +1,59 @@
+Assignment 1 statistics:
+Min: 65.00
+Max: 100.00
+Average: 88.32
+_________________________________________________________________________
+Assignment 2 statistics:
+Min: 56.00
+Max: 98.00
+Average: 75.11
+_________________________________________________________________________
+Assignment 3 statistics:
+Min: 56.00
+Max: 99.00
+Average: 77.74
+_________________________________________________________________________
+Assignment 4 statistics:
+Min: 45.00
+Max: 99.00
+Average: 70.11
+_________________________________________________________________________
+Assignment 5 statistics:
+Min: 45.00
+Max: 100.00
+Average: 79.21
+_________________________________________________________________________
+Assignment 6 statistics:
+Min: 45.00
+Max: 98.00
+Average: 73.47
+_________________________________________________________________________
+Assignment 7 statistics:
+Min: 34.00
+Max: 98.00
+Average: 76.16
+_________________________________________________________________________
+Assignment 8 statistics:
+Min: 33.00
+Max: 99.00
+Average: 76.53
+_________________________________________________________________________
+George Washington B
+John Adams B
+Thomas Jefferson A
+James Madison C
+James Monroe B
+Andrew Jackson B
+William Harrison F
+John Tyler C
+James Polk C
+Zachary Taylor D
+Millard Fillmore B
+Franklin Pierce C
+James Buchanan D
+Abraham Lincoln A
+Andrew Johnson B
+Ulysses Grant D
+Rutherford Hayes C
+James Garfield A
+Chester Arthur C
